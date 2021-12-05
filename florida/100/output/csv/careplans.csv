@@ -1,0 +1,5 @@
+Id,START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+f2bf9580-0997-0086-0cd1-afd7da2f8be7,1998-03-03,,e4f60399-5147-d1cf-bd2b-d59a5f9dee9b,01c30dfb-8107-e0ee-99d9-c1c848331645,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+a155e0a5-e2ea-9fa7-d359-c674a27f587a,2018-05-31,,c3eac2b2-5caf-a4cf-ad20-a361f5007ad7,1586cd83-5118-83c5-6400-437dd946e31b,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+a83e28c9-37a1-bc6d-c4f3-d06fa71e31c5,1993-02-02,,94fd33b6-93d9-e85e-4124-80150e73da9d,645e55bc-d8ea-86eb-bc0a-e2f6d60a03a6,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+1990eb1e-8cdb-7c88-f075-5f62b4d0d641,1991-01-22,,c9548e61-76df-6d24-0359-04fe657ca7a3,e95c7f32-51e9-5701-a41e-8fba70c650a5,386257007,Demential management,26929004,Alzheimer's disease (disorder)
